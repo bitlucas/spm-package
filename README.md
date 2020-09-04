@@ -1,3 +1,4 @@
 # PackageExample
 
-A description of this package.
+# spm-package
+=======
